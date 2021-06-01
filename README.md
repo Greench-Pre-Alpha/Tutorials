@@ -5,11 +5,11 @@ Learn how to use Greech Pre-Alpha
 </p>
 
 ### Links - Command Tutorials
-+ Setting up mod-logs: [Click Here]()
-+ Setting up welcome-logs: [Click Here]()
-+ Setting up moderation roles: [Click Here]()
++ Setting up mod-logs: [Click Here](https://github.com/Greench-Pre-Alpha/Tutorials/blob/main/commands/SETLOGS.md)
++ Setting up welcome-logs: [Click Here](https://github.com/Greench-Pre-Alpha/Tutorials/blob/main/commands/SETWELCOME.md)
++ Setting up moderation roles: [Click Here](https://github.com/Greench-Pre-Alpha/Tutorials/blob/main/commands/SETMODROLES.md)
 
 ### Links - Dashboard Tutorials
-+ Setting up mod-logs: [Click Here]()
-+ Setting up welcome-logs: [Click Here]()
-+ Setting up moderation roles: [Click Here]()
++ Setting up mod-logs: [Click Here](https://github.com/Greench-Pre-Alpha/Tutorials/blob/main/dashboard/SETLOGS.md)
++ Setting up welcome-logs: [Click Here](https://github.com/Greench-Pre-Alpha/Tutorials/blob/main/dashboard/SETWELCOME.md)
++ Setting up moderation roles: [Click Here](https://github.com/Greench-Pre-Alpha/Tutorials/blob/main/dashboard/SETMODROLES.md)
